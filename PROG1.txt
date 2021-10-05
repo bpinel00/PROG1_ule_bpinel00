@@ -1,0 +1,11 @@
+1.Zapatilla https://dle.rae.es/zapatilla?m=form
+2.Baloncesto https://dle.rae.es/baloncesto
+3.Cancha https://dle.rae.es/cancha#74KA4U1
+4.Ala https://dle.rae.es/ala?m=form
+5.Escolta https://dle.rae.es/escolta?m=form
+6.Líbero https://dle.rae.es/l%C3%ADbero?m=form
+7.Suplente https://dle.rae.es/suplente?m=form
+8.Banquillo https://dle.rae.es/banquillo?m=form
+9.Pívot https://dle.rae.es/p%C3%ADvot?m=formq
+10.Canasta https://dle.rae.es/canasta
+
